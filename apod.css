@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html{
+  height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center; 
+    background-image: url(https://catracalivre.com.br/wp-content/uploads/2014/08/espaco_sideral_-_por_Rastan_istockphoto1.jpg);
+    height: 100%;  
+}
+  
+main{
+    
+}
+
+img{
+    margin-bottom: 25px; 
+    margin-top: 25px;  
+    width: 30%;
+  }
+  
+
+  
